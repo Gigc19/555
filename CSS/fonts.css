@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Inter 700";
+  src: url("../FONTS/inter/Inter28pt-Bold.eot");
+  src: url("../FONTS/inter/Inter28pt-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../FONTS/inter/Inter28pt-Bold.woff2") format("woff2"),
+    url("../FONTS/inter/Inter28pt-Bold.woff") format("woff"),
+    url("../FONTS/inter/Inter28pt-Bold.svg#Inter28pt-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

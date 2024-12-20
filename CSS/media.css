@@ -1,0 +1,362 @@
+@media (max-width: 1024px) {
+  .frame-two {
+    height: 862px;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+  .left-frame {
+    width: 960px;
+    height: 348px;
+    margin-right: 0;
+  }
+  .image-size {
+    width: 960px;
+    height: 450px;
+    object-fit: cover;
+  }
+  .left-frame-inside {
+    width: 630px;
+    height: 200px;
+    margin: auto;
+  }
+  .paragraph {
+    text-align: center;
+  }
+  .frame-below {
+    margin: auto;
+  }
+  .minor {
+    width: 350px;
+  }
+  .title {
+    text-align: center;
+  }
+  .block-div-one {
+    width: 275.33px;
+    height: 176px;
+  }
+  .black-main-div {
+    height: 895px;
+  }
+  .two-div-union {
+    flex-wrap: wrap;
+    height: 895px;
+  }
+  .image-div-size {
+    width: 960px;
+    height: 550px;
+  }
+  .right-div-union {
+    width: 90%;
+    height: 185px;
+    margin: auto;
+    display: flex;
+    column-gap: 100px;
+  }
+  .just-union {
+    width: 500px;
+  }
+  .white-title {
+    width: 400px;
+  }
+  .left-div-union {
+    margin: auto;
+  }
+  .content {
+    width: 780px;
+  }
+  .content-title {
+    width: 480px;
+    margin: auto;
+  }
+  .content-small-title {
+    margin-bottom: 12px;
+  }
+  .div-four-element {
+    display: none;
+  }
+  .footer-div-two {
+    margin-top: 7%;
+  }
+  .footer-div-three {
+    margin-top: 7%;
+  }
+
+  .space {
+    height: 48px;
+    margin-bottom: 20px;
+  }
+  .footer-div-union {
+    width: 960px;
+    height: 240px;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 769px) {
+  .title {
+    width: 850px;
+    font-size: 40px;
+    line-height: 48.5px;
+    letter-spacing: -1px;
+    text-align: center;
+  }
+  .paragraph {
+    width: 700px;
+    margin-bottom: 0;
+  }
+  .left-frame-inside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 150px;
+    width: 700px;
+  }
+  .frame-two {
+    display: flex;
+    justify-content: start;
+    height: 760px;
+  }
+  .left-frame {
+    width: 760px;
+    height: 248px;
+  }
+  .right-div {
+    width: 606px;
+    height: 449px;
+    background-size: cover;
+  }
+  .image-size {
+    width: 100%;
+  }
+  .frame-below {
+    display: flex;
+    flex-direction: column;
+    height: 84px;
+  }
+  .button-black {
+    margin-bottom: 16px;
+  }
+  .main-block {
+    height: 415px;
+    flex-direction: column;
+  }
+  .block-div-one {
+    width: 100%;
+    height: 138px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .block-div-one-center {
+    margin: auto;
+    width: 180px;
+    height: 40px;
+  }
+  .black-main-div {
+    width: 744px;
+    height: 917px;
+  }
+  .image-div-size {
+    width: 100%;
+  }
+  .right-div-union {
+    flex-direction: column;
+    width: 90%;
+    height: 300px;
+    margin: auto;
+  }
+  .white-title {
+    width: 670px;
+    height: 64px;
+    text-align: center;
+    margin-bottom: 29px;
+  }
+  .just-union {
+    width: 696px;
+    height: 64px;
+    text-align: center;
+  }
+  .white-descr {
+    margin-bottom: 29px;
+  }
+  .content {
+    width: 680px;
+  }
+  .content-title {
+    width: 680px;
+  }
+  .content-small-title {
+    margin-bottom: 12px;
+  }
+  .space {
+    margin-left: 22px;
+  }
+  .footer-div-one {
+    margin-left: 22px;
+  }
+  .footer-div-two {
+    width: 155.67px;
+    height: 136px;
+    margin-top: 9.2%;
+  }
+  .footer-div-three {
+    width: 155.67px;
+    height: 136px;
+    margin-top: 9.2%;
+  }
+}
+@media (max-width: 376px) {
+  .title {
+    width: 327px;
+  }
+  .ul-a {
+    display: none;
+  }
+  .frame-two {
+    display: flex;
+    align-items: start;
+    height: 760px;
+  }
+  .paragraph {
+    width: 700px;
+    height: 300px;
+  }
+  .left-frame {
+    width: 375px;
+    height: 248px;
+  }
+  .left-frame-inside {
+    display: flex;
+    height: 97px;
+    width: 327px;
+  }
+  .right-div {
+    width: 327px;
+    height: 109px;
+    margin: 0 auto;
+  }
+  .image-size {
+    object-fit: contain;
+  }
+  .left-frame {
+    height: 55%;
+  }
+  .left-frame-inside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+    width: 100px;
+  }
+  .paragraph {
+    width: 250px;
+  }
+  .frame-below {
+    width: 300px;
+    height: 100px;
+  }
+  .minor {
+    width: 290px;
+    text-align: center;
+  }
+  .main-block {
+    margin-top: 50px;
+    width: 100%;
+  }
+  .descr {
+    width: 320px;
+    height: 72px;
+  }
+  .black-main-div {
+    width: 375px;
+    height: 523px;
+  }
+  .two-div-union {
+    width: 375px;
+    height: 523px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+  }
+  .image-div-size {
+    width: 300px;
+    height: 195px;
+    margin: 0;
+  }
+  .white-title {
+    font-family: "Inter 700";
+    font-size: 16px;
+    width: 327px;
+    height: 64px;
+    margin: 14px auto;
+    width: 327px;
+  }
+  .white-descr {
+    font-family: "Inter 700";
+    font-size: 14px;
+    opacity: 0.5;
+    margin-bottom: 14px;
+    width: 327px;
+  }
+  .descr-section {
+    font-family: "Inter 700";
+    font-size: 14px;
+    width: 327px;
+    opacity: 0.5;
+  }
+  .content {
+    width: 380px;
+    height: 252px;
+  }
+  .content-title {
+    width: 240px;
+  }
+  .content-big-title {
+    font-size: 28px;
+    line-height: 48px;
+    letter-spacing: -0.5px;
+  }
+  .button-two {
+    margin: 70px auto;
+  }
+  .space {
+    width: 315px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .footer-div-one {
+    width: 98.33px;
+    height: 168px;
+    text-align: center;
+  }
+  .footer-div-two {
+    width: 98.33px;
+    height: 168px;
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    bottom: 20%;
+  }
+  .footer-div-three {
+    width: 98.33px;
+    height: 168px;
+    text-align: center;
+    position: absolute;
+    left: 60%;
+    bottom: 20%;
+  }
+  .footer-div-union {
+    height: 340px;
+    width: 375px;
+    flex-wrap: nowrap;
+  }
+  .footer {
+    height: 340px;
+    width: 375px;
+    position: relative;
+  }
+}
